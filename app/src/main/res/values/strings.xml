@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LaLiga</string>
+    <string name="go_to_the_teams">TEAMS</string>
+    <string name="Atletico_facts">Year of fundation: 1903\nLa Liga Titles: 10\nCopa del rey Titles:10\nEuropean titles:7</string>
+    <string name="RealMadrid_facts">Year of fundation: 1902\nLa Liga Titles: 34\nCopa del rey Titles:19\nEuropean titles:19\nOne of the three teams that never played in the second division</string>
+    <string name="Barcelona_facts">Year of fundation: 1899\nLa Liga Titles: 26\nCopa del rey Titles:30\nEuropean titles:17\nLionel Messi play in Barcelona and its the highest scorer in la liga\nBarcelona is the Spanish team with the record of winnings without losing in a row\nOne of the three teams that never played in the second division</string>
+    <string name="Valencia_facts">Year of fundation: 1919\nLa Liga Titles: 6\nCopa del rey Titles:8\nEuropean titles:6\nAndoni Zubizarreta, the player with more matches in la liga played in Valencia</string>
+    <string name="Athletic_facts">Year of fundation: 1898\nLa Liga Titles: 8\nCopa del rey Titles:23\nEuropean titles:0\nOne of the three teams that never played in the second division\nBata was the player with more goals in one match with 7!!</string>
+    <string name="Sevilla_facts">Year of fundation: 1890\nLa Liga Titles: 1\nCopa del rey Titles:5\nEuropean titles:7</string>
+    <string name="RealSociedad_facts">Year of fundation: 1909\nLa Liga Titles: 2\nCopa del rey Titles:2\nEuropean titles:0</string>
+    <string name="RealBetis_facts">Year of fundation: 1907\nLa Liga Titles: 1\nCopa del rey Titles:2\nEuropean titles:0</string>
+    <string name="Alaves_facts">Year of fundation: 1921\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Villarreal_facts">Year of fundation: 1923\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:2</string>
+    <string name="Osasuna_facts">Year of fundation: 1920\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Huesca_facts">Year of fundation: 1960\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Cadiz_facts">Year of fundation: 1910\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Levante_facts">Year of fundation: 1909\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Eibar_facts">Year of fundation: 1940\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Getafe_facts">Year of fundation: 1923\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Elche_facts">Year of fundation: 1922\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Valladolid_facts">Year of fundation: 1928\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Granada_facts">Year of fundation: 1931\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="Celta_facts">Year of fundation: 1923\nLa Liga Titles: 0\nCopa del rey Titles:0\nEuropean titles:0</string>
+    <string name="quiz">QUIZ</string>
+    <string name="final_quiz_of_la_liga">FINAL QUIZ OF LA LIGA</string>
+    <string name="c">C)</string>
+    <string name="d">D)</string>
+    <string name="b">B)</string>
+    <string name="a">A)</string>
+    <string name="q1">Who is the older team in LaLiga?</string>
+    <string name="q2">Who of this teams never relegate to the second division?</string>
+    <string name="q3">Who is the team with more Leagues?</string>
+    <string name="q4">Who is the player with more matches in LaLiga?</string>
+    <string name="q5">Who is the team with more matches without losing in a row?</string>
+    <string name="q6">How many goals is the record of one player in one match of la Liga?</string>
+    <string name="q7">Who is the team with more european titles in LaLiga?</string>
+    <string name="q8">Which of this teams is not playing in the season 2020/21 in LaLiga?</string>
+    <string name="q9">Which of these players in the highest scorer in the history of LaLiga?</string>
+    <string name="q10">Which is the best Football League in the world?</string>
+    <string name="score">Score:</string>
+
+</resources>

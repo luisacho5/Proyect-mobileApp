@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image_laliga"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:src="@drawable/laliga" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/final_quiz_of_la_liga"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttona"
+            android:layout_width="match_parent"
+            android:layout_height="80sp"
+            android:layout_gravity="center"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:backgroundTint="@color/black"
+            android:layout_weight="0.5"
+            android:tag="1"
+            android:onClick="result"
+            />
+        <Button
+            android:id="@+id/buttonb"
+            android:layout_width="match_parent"
+            android:layout_height="80sp"
+            android:layout_gravity="center"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:backgroundTint="@color/black"
+            android:layout_weight="0.5"
+            android:tag="2"
+            android:layout_marginLeft="10sp"
+            android:onClick="result"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonc"
+            android:layout_width="match_parent"
+            android:layout_height="80sp"
+            android:layout_gravity="center"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:backgroundTint="@color/black"
+            android:layout_weight="0.5"
+            android:tag="3"
+            android:onClick="result"
+            />
+        <Button
+            android:id="@+id/buttond"
+            android:layout_width="match_parent"
+            android:layout_height="80sp"
+            android:layout_gravity="center"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:backgroundTint="@color/black"
+            android:layout_weight="0.5"
+            android:tag="4"
+            android:layout_marginLeft="10sp"
+            android:onClick="result"
+            />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/scoretext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        />
+
+</LinearLayout>

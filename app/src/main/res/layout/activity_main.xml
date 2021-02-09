@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_marginTop="100dp"
+        android:id="@+id/laliga_image"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:src="@drawable/laliga" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/go_to_the_teams"
+        android:layout_gravity="center"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:backgroundTint="@color/black"
+        android:onClick="goList"
+        />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/quiz"
+        android:layout_gravity="center"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:backgroundTint="@color/black"
+        android:onClick="goQuiz"
+        />
+    <TextView
+        android:id="@+id/quiz_mark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="23sp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+
+</LinearLayout>
